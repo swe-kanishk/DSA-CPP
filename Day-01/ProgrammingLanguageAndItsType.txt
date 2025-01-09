@@ -1,0 +1,54 @@
+# Day 01 - Learning Journey
+
+Today, I dived into the fundamentals of programming and computer memory management. Here's what I covered:
+
+1. What is a programming Language
+2. Machine Language
+3. Assembly Language
+4. High Level Language
+5. Procedural Language
+6. Functional Language
+7. Object Oriented Language
+8. Scripting Language
+9. Stack Memory
+10. Heap Memory
+11. Garbage Collection
+
+### Programming Languages:
+1. **What is a Programming Language?**  
+   Understanding the role of programming languages in communicating instructions to computers.
+
+2. **Machine Language**  
+   The lowest-level language, directly understood by computers, consisting of binary code.
+
+3. **Assembly Language**  
+   A step above machine language, using mnemonics to make programming more human-readable.
+
+4. **High-Level Language**  
+   Languages like Python, Java, and C++ that are closer to natural language and abstract hardware details.
+
+### Language Paradigms:
+5. **Procedural Language**  
+   Focuses on procedures or routines to perform tasks. Example: C.
+
+6. **Functional Language**  
+   Emphasizes the use of functions and immutability. Example: Haskell.
+
+7. **Object-Oriented Language**  
+   Centers around objects and encapsulation. Example: Java, Python.
+
+8. **Scripting Language**  
+   Designed for automating tasks and scripting applications. Example: JavaScript, Bash.
+
+### Memory Management:
+9. **Stack Memory**  
+   Used for static memory allocation and execution of functions. It's fast and follows a LIFO structure.
+
+10. **Heap Memory**  
+   Used for dynamic memory allocation. It's slower but more flexible compared to stack memory.
+
+11. **Garbage Collection**  
+   The process of automatically reclaiming unused memory, helping to prevent memory leaks.
+
+
+I’m excited to continue this journey and explore more tomorrow! 🚀

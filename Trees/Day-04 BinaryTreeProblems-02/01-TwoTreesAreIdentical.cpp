@@ -14,12 +14,8 @@ bool isIdentical(Node *root1, Node *root2) {
     if(!root1 && !root2) return 1;
     if(!root1 || !root2) return 0;
 
-    if(root1->data == root2->data) {
-        bool leftResult = isIdentical(root1->left, root2->left);
-        bool rightResult = isIdentical(root1->right, root2->right);
-        if(leftResult == true && rightResult == true) return true;
-    }
-    return false; 
+    if(root1->data != root2->data) return false; 
+    return isIdentical(root1->left, root2->left) && isIdentical(root1->right, root2->right);
 }
 Node *BinaryTree() {
     int x;
